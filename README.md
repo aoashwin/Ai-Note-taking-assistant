@@ -1,4 +1,4 @@
-![image](https://github.com/aoashwin/Ai-Note-taking-assistant/assets/75235601/c4e943fa-1f1d-4edc-844b-a6e9ac12d86e)## AI - NOTE TAKING ASSISTANT
+## AI - NOTE TAKING ASSISTANT
  In an age characterized by information overload and the perpetual quest for productivity,efficient note-taking remains a cornerstone of effective learning, work, and organization.However, traditional note-taking methods often prove cumbersome and time-consuming,leading to inefficiencies and errors. 
 
 ## About
